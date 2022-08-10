@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Frank, or @BeerMetalPC
-- 🌐 I use Github primarily as a public documents repo.
-- 🌱 I’m currently working on an infosec con talk about M&A lessons learned, and studying for the CRISC exam. 
-- 📫 I can be reached on Twitter @BeerMetalPC or via lnk.bio/BeerMetalPC
-- 📆 (Readme last updated Oct. 2021) 
+- 🌐 I use my Github primarily as a public portfolio and for version control of my personal site.
+- 📫 I can be reached on Twitter @BeerMetalPC
+- 📆 (Readme last updated August 2022) 
 
 <!---
 BeerMetalPC/BeerMetalPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
